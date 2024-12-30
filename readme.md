@@ -54,7 +54,7 @@ This is not an official product of Pampered Chef, nor is it affiliated with them
 
 ## Contact
 
-For questions or collaboration, you can reach out via [your email or preferred contact method].
+For questions or collaboration, you can reach out via the form at [mattkars.dev](https://mattkars.dev).
 
 ---
 
