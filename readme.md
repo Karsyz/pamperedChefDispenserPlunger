@@ -2,6 +2,8 @@
 
 ![Replacement Plunger](plunger.PNG)
 
+**Support the Project:** If this design helps you, consider [supporting my work](https://ko-fi.com/karsy) to keep the creativity flowing!
+
 ## Overview
 
 This is a 3D printed replacement plunger designed for the Pampered Chef Mixer and Dispenser. The original plunger is known to fail after just a couple of years of use, and this model aims to provide a durable, cost-effective solution.
